@@ -1,3 +1,3 @@
-# notification_generator
+# water_and_exercise_reminder
 
-Notification Generator sends 3 types of notifications with a music on your computer after regular intervals which includes reminder for drinking water, eye exercise and physical body exercise.
+water_and_exercise_reminder sends 3 types of notifications with musics on your computer after regular intervals which includes reminder for drinking water, eye exercise and physical body exercise.
